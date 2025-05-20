@@ -37,7 +37,7 @@ section#about.resume-section{
 }
 
 .chloecrop{
-    height:400px;
+    height:700px;
     overflow:hidden;
     object-fit:cover;
     margin:10px 5px;
@@ -52,4 +52,9 @@ section#about.resume-section{
     background-image: url("../assets/img/callmebg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.chloehl{
+    color: red;
+    font-weight: 900;
 }
