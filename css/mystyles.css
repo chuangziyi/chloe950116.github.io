@@ -43,3 +43,13 @@ section#about.resume-section{
     margin:10px 5px;
     border-radius: 20px;
 }
+
+.chloeserif{
+    font-family: "Noto Serif TC", serif;
+}
+
+.chloecallbg{
+    background-image: url("../assets/img/callmebg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
